@@ -1,11 +1,11 @@
 const axios = require('axios');
  
 const options = {
-  creator: "Arifzyn.",
+  creator: "LORENZO",
   port: 3000,
   limit: 25,
   
-  token: "6488020821:AAEtbVJvAxHPJPDInjkWvlUUdXSd8766fd0",
+  token: "6464165224:AAH5EYS17VyiXOUJQH_0QXvV1oyl816WQQ4",
   chatId: "6176867516",
 } 
 
@@ -19,14 +19,14 @@ module.exports = {
     google: {
     	clientId: "574520314477-37uoebkj1b3labqiitns1uts8atmvir6.apps.googleusercontent.com",
     	clientSecret: "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",
-    	callbackURL: "https://api.arifzyn.biz.id/auth/google/callback"
+    	callbackURL: "https://api.arifzyn.tech/auth/google/callback"
     }, 
     bing: []
   },
   
   smtp: {
-  	email: "arifzynapis19@gmail.com",
-  	pass: "phyyygodbtmezwvu"
+  	email: "smtp.lorenzo@gmail.com",
+  	pass: "tznsgkauafqqdbli"
   },
   
   mongoURL: "mongodb+srv://arifzyn906:Arifzyn19@arifzynapi.1vwsizt.mongodb.net/?retryWrites=true&w=majority",
@@ -45,8 +45,8 @@ module.exports = {
   },
   
   web: {
-    title: "Arifzyn API", 
-    footer: "Copyright © 2023 Arifzyn.",
+    title: "LORENZO API", 
+    footer: "Copyright © 2023 LORENZO.",
     tags: {
       "anime": "fas fa-ghost", 	
       "download": "fas fa-download",
